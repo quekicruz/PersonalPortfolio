@@ -46,15 +46,14 @@ class Hero extends React.Component {
               <div className="col px-0">
                 <Row className="align-items-center justify-content-center">
                   <Col className="text-center" lg="6">
-                    <img
+                    {/* <img
                       alt="..."
                       className="img-fluid"
                       src={reactWhite}
                       style={{ width: "200px" }}
-                    />
+                    /> */}
                     <p className="lead text-white">
-                      A beautiful Design System for Bootstrap 4. It's Free and
-                      Open Source.
+                    My name is Quentin Napu Ueki Cruz, I also go by Q. I am a Guam native that moved to Washington to pursue a degree in Kinesiology which I accomplished in 2019 but due to recent circumstances I have decided to do a complete career change. My interest in coding/software development began with the help of one my roommates and it was then solidified after I took the 101 course designed by Code Fellows. It is now my dream to become a full stack developer to improve others lives through technology.
                     </p>
                     <div className="btn-wrapper mt-5">
                       <Button
@@ -79,7 +78,7 @@ class Hero extends React.Component {
                           <i className="fa fa-github" />
                         </span>
                         <span className="btn-inner--text">
-                          <span className="text-warning mr-1">Star us</span>
+                          <span className="text-warning mr-1">Find Me</span>
                           on Github
                         </span>
                       </Button>
